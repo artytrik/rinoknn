@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_placeholder_search']       = 'Search here...';
-$_['text_category']     = 'Select a categories';
-$_['text_empty']        = 'There are no products to list in this category.';
+$_['text_placeholder_search']       = 'Поиск';
+$_['text_category']     = 'Категории';
+$_['text_empty']        = 'В этой категории нет товаров';

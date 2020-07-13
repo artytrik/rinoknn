@@ -1,6 +1,6 @@
 <?php
-$_['module_product_title'] = "Products";
-$_['text_empty'] = "There is no product.";
-$_['text_availabe'] = "availabe:";
-$_['text_sold'] = "Sold:";
-$_['text_viewmore'] = "View Details";
+$_['module_product_title'] = "Продукты";
+$_['text_empty'] = "Продуктов нет";
+$_['text_availabe'] = "Доступно:";
+$_['text_sold'] = "Продано:";
+$_['text_viewmore'] = "Просмотреть детали";

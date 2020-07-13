@@ -1,24 +1,24 @@
 <?php
 // Text
-$_['text_information']  = 'Information';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliate';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_description_footer']   = 'We are a team of designers and developers that create high quality Magento, Prestashop, Opencart.';
-$_['text_address']   = 'Address:';
+$_['text_information']  = 'Информация';
+$_['text_service']      = 'Обслуживание клиентов';
+$_['text_extra']        = 'Дополнительно';
+$_['text_contact']      = 'Контакты';
+$_['text_return']       = 'Возвраты';
+$_['text_sitemap']      = 'Карта сайта';
+$_['text_manufacturer'] = 'Бренды';
+$_['text_voucher']      = 'Подарочные сертификаты';
+$_['text_affiliate']    = 'Филиалы';
+$_['text_special']      = 'Предложения';
+$_['text_account']      = 'Мой аккаунт';
+$_['text_order']        = 'История заказов';
+$_['text_wishlist']     = 'Список желаемого';
+$_['text_newsletter']   = 'Новости';
+$_['text_description_footer']   = 'Rinoknn';
+$_['text_address']   = 'Адрес:';
 $_['text_email']   = 'Email:';
-$_['text_phone']   = 'Call us:';
-$_['text_signup_newsletter']   = 'Sign up newsletter';
+$_['text_phone']   = 'Свяжитесь с нами:';
+$_['text_signup_newsletter']   = 'Подпишитесь на рассылку';
 // Edit by Plazathemes
-$_['text_twitter_widget']   = 'twitter widget';
-$_['text_powered']      = 'Copyright  © 2020 <a href="http://plazathemes.com">Plazathemes</a>. All Rights Reserved.Design by <a href="http://plazathemes.com">Plazathemes.com</a>';
+$_['text_twitter_widget']   = 'Twitter';
+$_['text_powered']      = 'Copyright © 2020 M&N Agency';

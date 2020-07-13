@@ -1,23 +1,23 @@
 <?php
 // Newsletter Popup
-$_['heading_title1'] 	    = 'Sign Up Newsletter';
-$_['text_description'] 	    = 'Subscribe to the our store mailing list to receive updates on new arrivals, special offers and other discount information.';
+$_['heading_title1'] 	    = 'Подпишитесь на рассылку';
+$_['text_description'] 	    = 'Подпишитесь на нашу рассылку, чтобы получать новости о новых товарах, скидках и акциях.';
 
 // Newsletter Block
-$_['heading_title2'] 	    = 'Sign up For Newsletter';
-$_['text_description2'] 	    = 'Get updates by subscribe our weekly newsletter';
+$_['heading_title2'] 	    = 'Подписаться на рассылку';
+$_['text_description2'] 	    = 'Получайте новости, подписавшись на нашу рассылку';
 
 // Text
-$_['text_close']            = 'Close';
-$_['text_notification']     = 'Don\'t show again';
+$_['text_close']            = 'Закрыть';
+$_['text_notification']     = 'Не показывать снова';
 
 // Entry
-$_['entry_mail_subscribe']  = 'Email address...';
+$_['entry_mail_subscribe']  = 'Email';
 
 // Buttons
-$_['button_subscribe']      = 'Subscribe';
+$_['button_subscribe']      = 'Подписаться';
 
 // Messages
-$_['subscribe_success']     = 'Success: Your e-mail has been subscribed successfully!';
-$_['error_validate_mail']   = "Invalid E-mail Address!";
-$_['error_existed_mail']    = "This E-mail is existed already!";
+$_['subscribe_success']     = 'Вы успешно подписались на рассылку!';
+$_['error_validate_mail']   = "Неправильный email!";
+$_['error_existed_mail']    = "Этот email уже существует";
