@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['title']  = 'Login or create an account';
+$_['title']  = 'Авторизуйтесь или создайте аккаунт';
