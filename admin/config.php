@@ -4,8 +4,8 @@ define('HTTP_SERVER', 'http://rinoknn.ru/admin/');
 define('HTTP_CATALOG', 'http://rinoknn.ru/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://rinoknn.ru/admin/');
-define('HTTPS_CATALOG', 'http://rinoknn.ru/');
+define('HTTPS_SERVER', 'https://rinoknn.ru/admin/');
+define('HTTPS_CATALOG', 'https://rinoknn.ru/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/u0776125/public_html/rinoknn/admin/');
