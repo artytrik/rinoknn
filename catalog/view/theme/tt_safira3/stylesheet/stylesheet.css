@@ -1906,7 +1906,6 @@ h2.price{margin:0;}
 #product {
 	padding-bottom:1.4rem;
 	margin-bottom:2.3rem;
-	border-bottom:0.1rem solid #f0f0f0;
 }
 .product-info-details #button-cart{float:left;width:auto;margin:0 0 0 1rem;font-size: 1.6rem;padding: 0 6.7rem;line-height: 4.8rem;border-radius: 2rem;-webkit-border-radius: 3rem;text-transform: uppercase;font-weight:400;background:var(--button-bg-hover-color);}
 .product-info-details #button-cart:before {content: "+";margin-right: 0.4rem;}
